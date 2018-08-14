@@ -2,6 +2,7 @@ class GradleXy < Formula
   desc "Build system based on the Groovy language"
   homepage "https://www.xiaoying.com/"
   url "http://bucket.oa.com/download/dco-source/gradle-4.9-all.zip"
+  sha256 "39e2d5803bbd5eaf6c8efe07067b0e5a00235e8c71318642b2ed262920b27721"
 
   bottle :unneeded
 
