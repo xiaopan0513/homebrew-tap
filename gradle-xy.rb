@@ -1,4 +1,4 @@
-class Gradle < Formula
+class Gradle-xy < Formula
   desc "Build system based on the Groovy language"
   homepage "https://www.xiaoying.com/"
   url "http://bucket.oa.com/download/dco-source/gradle-4.9-all.zip"
